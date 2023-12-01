@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Nov 2023 19:44:44 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Dec 2023 12:39:47 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网络是如何连接的 第六章读书记录</title>
+      <link>/posts/netbook/netbook6/</link>
+      <pubDate>Fri, 01 Dec 2023 12:39:47 +0800</pubDate>
+      
+      <guid>/posts/netbook/netbook6/</guid>
+      <description>working on it</description>
+    </item>
+    
     <item>
       <title>网络是如何连接的 第五章读书记录</title>
       <link>/posts/netbook/netbook5/</link>
